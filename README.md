@@ -18,7 +18,7 @@
 
 </div>
 
-## 📌 Professional Profile
+## 👨‍💻 About Me
 
 I am a **Cyber Security undergraduate** (2023–2027) at **G H Raisoni College of Engineering and Management, Pune**, pursuing a career in **Network Engineering**, **NOC Operations**, and **Infrastructure Security**. 
 
@@ -121,21 +121,6 @@ Cisco CCNA 200-301 Preparation Track
 - **NOC Engineer / Network Operations Analyst**
 - **Network Support Engineer (L1 / L2)**
 - **Junior Infrastructure & Network Security Specialist**
-
----
-
-## 📊 GitHub & Activity Overview
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=utkarshdaule11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Utkarsh's GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshdaule11&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshdaule11&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
-
-</div>
 
 ---
 
